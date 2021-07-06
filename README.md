@@ -1,6 +1,6 @@
 # CML 2.0 Hands-on Lab
 
-<img src="cml2-logo.png" alt="img" style="zoom:50%;" />
+<img src="resources/cml2-logo.png" alt="img" style="zoom:50%;" />
 
 Cisco Modeling Labs (CML) is the go-to tool for network simulation of Cisco reference platforms and beyond. In this session, we’re going to  cover the product from A to Z with a special focus on automation.  In addition, we’re going to show how to extend the platform by adding  additional images like a Windows 10 or a vWLC WLAN Controller.
 
@@ -48,7 +48,7 @@ The actual CML License will be provisioned into your Smart Licensing Virtual acc
 
 The tool is also referenced on the SharePoint site above.  Note that the tool has direct links to the software images needed (choose the VMware deployment files or see the next section for instructions how to download from CCO):
 
-<img src="image-20210706134824056.png" alt="image-20210706134824056" style="zoom:50%;" />
+<img src="resources/image-20210706134824056.png" alt="image-20210706134824056" style="zoom:50%;" />
 
 ### Software
 
@@ -68,11 +68,11 @@ https://software.cisco.com/download/home/286193282/type/286326381/release/2.2.2
 
 Download the OVA from the 2.2.2 release:
 
-<img src="image-20210706130150008.png" alt="image-20210706130150008" style="zoom:50%;" />
+<img src="resources/image-20210706130150008.png" alt="image-20210706130150008" style="zoom:50%;" />
 
 Also download the reference platform ISO file from the 2.2.1 release:
 
-<img src="image-20210706130033320.png" alt="image-20210706130033320" style="zoom:50%;" />
+<img src="resources/image-20210706130033320.png" alt="image-20210706130033320" style="zoom:50%;" />
 
 #### Windows 10 Download
 
@@ -85,7 +85,7 @@ If you want to install Windows 10 as part of this hands-on lab, then you can dow
 
 If you do not want to download or do not have the space for a Windows 10 image then maybe you want to install the virtual Wireless LAN Controller from [CCO here](https://software.cisco.com/download/home/284464214/type/280926587/release/8.10.151.0), choose the OVA ~610MB:
 
-<img src="image-20210706142407647.png" alt="image-20210706142407647" style="zoom:50%;" />
+<img src="resources/image-20210706142407647.png" alt="image-20210706142407647" style="zoom:50%;" />
 
 #### CML Platform ISO Alternative Download
 
